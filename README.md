@@ -7,4 +7,4 @@ personnage dans une petite map où il peut rencontrer des monstres à affronter,
 
 # Équipe
 * Sanjeevan RAMMOHAN
-* Enrick LLARI
+* Souhil NOUIOUA
